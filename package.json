@@ -10,11 +10,14 @@
     "apsl-react-native-button": "^3.0.2",
     "babel-preset-es2015": "^6.18.0",
     "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "firebase": "^3.6.5",
     "react": "15.4.2",
     "react-color": "^2.11.1",
     "react-native": "0.40.0",
     "react-native-button": "^1.7.1",
     "react-native-pulse": "^1.0.3",
+    "react-native-slider": "^0.9.1",
     "react-tween-state": "^0.1.5"
   },
   "devDependencies": {
